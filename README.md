@@ -5,6 +5,7 @@ Adjunto link del drive para poder descargar los archivos del juego, ya que son d
 https://drive.google.com/drive/folders/1ZPlBAe-_dEl6v9SGsU1U8oOXgbtoos0S?usp=drive_link
 
 Instrucciones:
+
 -Descargar archivos del drive.
 
 -Ejecutar Through the Darkness.exe 
