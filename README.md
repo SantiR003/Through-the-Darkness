@@ -6,7 +6,9 @@ https://drive.google.com/drive/folders/1ZPlBAe-_dEl6v9SGsU1U8oOXgbtoos0S?usp=dri
 
 Instrucciones:
 -Descargar archivos del drive.
+
 -Ejecutar Through the Darkness.exe 
+
 -Sobrevivir
 
 ![Through the Darkness](https://github.com/SantiR003/Through-the-Darkness/assets/83555664/00493cf7-bd2c-4039-b68d-7261737cff96)
